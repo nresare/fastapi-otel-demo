@@ -1,0 +1,5 @@
+# requirements.in
+fastcgi
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
